@@ -6,10 +6,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="gray">
 <h1>Registration Form</h1>
 <form action="RegControl" method="post">
-<table>
+<table border = "1">
 <tr><td>Name</td><td><input type="text" name="name"> </td></tr>
 <tr><td>Address</td><td><input type="text" name="add"> </td></tr>
 <tr><td>Mobile</td><td><input type="text" name="mob"> </td></tr>
